@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OMG ANDROID</string>
+    <string name="hello_world">Asaph is Learning Android Development!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
